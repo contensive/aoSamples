@@ -1,0 +1,11 @@
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.csproj.AssemblyReference.cache
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.AssemblyInfoInputs.cache
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.AssemblyInfo.cs
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.csproj.CoreCompileInputs.cache
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.sourcelink.json
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\bin\Debug\netstandard2.0\DashboardWidget.deps.json
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\bin\Debug\netstandard2.0\DashboardWidget.dll
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\bin\Debug\netstandard2.0\DashboardWidget.pdb
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.dll
+C:\Git\aoSamples\server\aoSamples\DashboardWidget\obj\Debug\netstandard2.0\DashboardWidget.pdb

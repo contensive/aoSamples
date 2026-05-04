@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoSamples", "aoSamples\aoSamples.csproj", "{16474D38-F08D-410F-9014-49973B045752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardWidget", "DashboardWidget\DashboardWidget.csproj", "{D6FB6CEB-8B38-4A0A-B471-2204933A4278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutBuilderList", "LayoutBuilderList\LayoutBuilderList.csproj", "{ED227BE9-DB6C-46F8-92E8-AF6C35C6974B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutBuilderNameValue", "LayoutBuilderNameValue\LayoutBuilderNameValue.csproj", "{9C38EAC3-28FA-45CC-BD13-E7AB76CFDE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageWidget", "PageWidget\PageWidget.csproj", "{86E1BC48-5169-4A2D-8452-0E0ED453DB04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteMethod", "RemoteMethod\RemoteMethod.csproj", "{C6437019-4436-4B9A-B89B-056A53AC2992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16474D38-F08D-410F-9014-49973B045752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16474D38-F08D-410F-9014-49973B045752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16474D38-F08D-410F-9014-49973B045752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16474D38-F08D-410F-9014-49973B045752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FB6CEB-8B38-4A0A-B471-2204933A4278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FB6CEB-8B38-4A0A-B471-2204933A4278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FB6CEB-8B38-4A0A-B471-2204933A4278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FB6CEB-8B38-4A0A-B471-2204933A4278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED227BE9-DB6C-46F8-92E8-AF6C35C6974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED227BE9-DB6C-46F8-92E8-AF6C35C6974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED227BE9-DB6C-46F8-92E8-AF6C35C6974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED227BE9-DB6C-46F8-92E8-AF6C35C6974B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C38EAC3-28FA-45CC-BD13-E7AB76CFDE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C38EAC3-28FA-45CC-BD13-E7AB76CFDE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C38EAC3-28FA-45CC-BD13-E7AB76CFDE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C38EAC3-28FA-45CC-BD13-E7AB76CFDE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E1BC48-5169-4A2D-8452-0E0ED453DB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E1BC48-5169-4A2D-8452-0E0ED453DB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E1BC48-5169-4A2D-8452-0E0ED453DB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E1BC48-5169-4A2D-8452-0E0ED453DB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6437019-4436-4B9A-B89B-056A53AC2992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6437019-4436-4B9A-B89B-056A53AC2992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6437019-4436-4B9A-B89B-056A53AC2992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6437019-4436-4B9A-B89B-056A53AC2992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00E461D-6911-4D21-A297-4AE7FAE25F11}
+	EndGlobalSection
+EndGlobal

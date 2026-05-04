@@ -1,0 +1,11 @@
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\bin\Debug\netstandard2.0\LayoutBuilderList.deps.json
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\bin\Debug\netstandard2.0\LayoutBuilderList.dll
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\bin\Debug\netstandard2.0\LayoutBuilderList.pdb
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.csproj.AssemblyReference.cache
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.AssemblyInfoInputs.cache
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.AssemblyInfo.cs
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.csproj.CoreCompileInputs.cache
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.sourcelink.json
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.dll
+C:\Git\aoSamples\server\aoSamples\LayoutBuilderList\obj\Debug\netstandard2.0\LayoutBuilderList.pdb

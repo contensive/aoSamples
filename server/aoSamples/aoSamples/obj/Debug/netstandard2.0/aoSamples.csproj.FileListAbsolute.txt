@@ -1,0 +1,11 @@
+C:\Git\aoSamples\server\aoSamples\aoSamples\bin\Debug\netstandard2.0\aoSamples.deps.json
+C:\Git\aoSamples\server\aoSamples\aoSamples\bin\Debug\netstandard2.0\aoSamples.dll
+C:\Git\aoSamples\server\aoSamples\aoSamples\bin\Debug\netstandard2.0\aoSamples.pdb
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.csproj.AssemblyReference.cache
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.AssemblyInfoInputs.cache
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.AssemblyInfo.cs
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.csproj.CoreCompileInputs.cache
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.sourcelink.json
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.dll
+C:\Git\aoSamples\server\aoSamples\aoSamples\obj\Debug\netstandard2.0\aoSamples.pdb

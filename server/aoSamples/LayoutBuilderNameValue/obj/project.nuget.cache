@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTD/Hii0WdI=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\aoSamples\\server\\aoSamples\\LayoutBuilderNameValue\\LayoutBuilderNameValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\contensive.cpbaseclass\\26.3.17.1\\contensive.cpbaseclass.26.3.17.1.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\contensive.dbmodels\\26.3.17.1\\contensive.dbmodels.26.3.17.1.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\contensive.designblockbase\\25.4.26.1\\contensive.designblockbase.25.4.26.1.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Contensive.DesignBlockBase 25.4.26.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Git\\aoSamples\\server\\aoSamples\\LayoutBuilderNameValue\\LayoutBuilderNameValue.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Git\\aoSamples\\server\\aoSamples\\LayoutBuilderNameValue\\LayoutBuilderNameValue.csproj",
+      "libraryId": "Contensive.DesignBlockBase",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

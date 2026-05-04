@@ -1,0 +1,11 @@
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\bin\Debug\netstandard2.0\RemoteMethod.deps.json
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\bin\Debug\netstandard2.0\RemoteMethod.dll
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\bin\Debug\netstandard2.0\RemoteMethod.pdb
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.csproj.AssemblyReference.cache
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.AssemblyInfoInputs.cache
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.AssemblyInfo.cs
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.csproj.CoreCompileInputs.cache
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.sourcelink.json
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.dll
+C:\Git\aoSamples\server\aoSamples\RemoteMethod\obj\Debug\netstandard2.0\RemoteMethod.pdb

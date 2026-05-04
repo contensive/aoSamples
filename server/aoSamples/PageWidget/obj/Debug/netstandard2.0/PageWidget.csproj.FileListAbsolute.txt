@@ -1,0 +1,11 @@
+C:\Git\aoSamples\server\aoSamples\PageWidget\bin\Debug\netstandard2.0\PageWidget.deps.json
+C:\Git\aoSamples\server\aoSamples\PageWidget\bin\Debug\netstandard2.0\PageWidget.dll
+C:\Git\aoSamples\server\aoSamples\PageWidget\bin\Debug\netstandard2.0\PageWidget.pdb
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.csproj.AssemblyReference.cache
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.AssemblyInfoInputs.cache
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.AssemblyInfo.cs
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.csproj.CoreCompileInputs.cache
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.sourcelink.json
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.dll
+C:\Git\aoSamples\server\aoSamples\PageWidget\obj\Debug\netstandard2.0\PageWidget.pdb
